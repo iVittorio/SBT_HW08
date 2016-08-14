@@ -12,7 +12,7 @@
     <modules>
         <module>user</module>
         <module>photo-album</module>
-        <module>message</module>
+        <module>ru.sbt.socialnetwork.message.Message</module>
         <module>page</module>
     </modules>
 
