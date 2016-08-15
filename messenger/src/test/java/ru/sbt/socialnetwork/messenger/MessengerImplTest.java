@@ -1,3 +1,5 @@
+package ru.sbt.socialnetwork.messenger;
+
 import org.junit.Before;
 import org.junit.Test;
 import ru.sbt.socialnetwork.domain.Message;
