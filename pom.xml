@@ -12,7 +12,7 @@
     <modules>
         <module>domain-model</module>
         <module>messenger</module>
-        <module>page</module>
+        <module>registration</module>
     </modules>
 
 

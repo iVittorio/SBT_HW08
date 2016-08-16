@@ -15,7 +15,7 @@ import java.util.List;
  * Created by i.viktor on 15/08/16.
  */
 public class MessengerImplTest {
-    Messenger messenger;
+    private Messenger messenger;
 
     @Before
     public void setUp() {
